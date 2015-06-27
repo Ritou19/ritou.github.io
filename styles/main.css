@@ -1,0 +1,179 @@
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+}
+
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 800px;
+	min-width: 500px;
+  }
+
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
+
+.Presentation{
+	margin-top: 50px;
+}
+
+.marge{
+	height:14px;
+	color: transparent;
+}
+
+h1 {
+	font-size: 18pt;
+	font-family: Broadway;
+}
+
+p {
+	font-size: 12pt;
+	font-family: Century Gothic;
+}
+
+p.titreSection{
+	font-size: 14pt;
+	color: #080830;
+	font-family: Broadway;
+	border-bottom-color: black;
+	border-left-color: transparent;
+	border-right-color: transparent;
+	border-top-color: transparent;
+	border-width: 2px;
+	border-style:solid;
+}
+
+.theme{
+	font-weight:bold;
+	width: 90px;
+}
+
+td.definition{
+	padding:8px;
+}
+
+div.allPage{
+	width:100%;
+	font-family: Century Gothic;
+}
+
+.moi{
+	float: right;
+}
+
+.tab1{
+	position: absolute;
+	left: 90px;
+}
+
+.tr{
+	width: 85%;
+}
+
+p.theme{
+	position: absolute;
+	left: 30px;
+}
+
+.progress{
+	background-color: #B7CA79;
+}
+
+.progress-bar{
+	background-color: #8FCF3C;
+	color: black;
+	font-weight:bold;
+}
+
+.navbar-brand{
+	font-family: Michroma;
+	font-weight:bold;
+	word-spacing: 15px;
+	font-size: 18pt;
+}
+
+div.container {
+	max-width: 900px;
+	min-width: 600px;
+}
+
+.myChart0 {
+	line-height: 10%;
+}
